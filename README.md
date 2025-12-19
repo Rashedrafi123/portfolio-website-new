@@ -27,3 +27,6 @@ The project includes a full Figma design prototype, website structure, and imple
 - Scroll navigation  
 
 ---
+
+Website Development Phase: Pending (HTML, CSS, JS under construction)
+
