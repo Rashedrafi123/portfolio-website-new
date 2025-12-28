@@ -26,12 +26,5 @@ body{font-family:'Poppins',sans-serif;scroll-behavior:smooth;}
 .logo{font-size:26px;font-weight:900;color:white;} 
 .logo span{color:#6366f1;}
 
-a {
-   cursor: pointer;
-}
 
-button, a {
-   position: relative;
-   z-index: 99;
-}
 
